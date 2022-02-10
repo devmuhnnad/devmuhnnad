@@ -1,12 +1,9 @@
 ## Yo 👋 Hello everyone this is Muhnnad 
----
 <p align="center">
   <img src="https://github.com/devmuhnnad/devmuhnnad/blob/main/devgif.gif" alt="gif devmuhnnad" />
 </p>
 
-Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
-
-This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax).
+The learning process never stop!, everyday there's interesting things you can learn and create, I'm an enthusiastic Developer who loves to share his experience and the learning journey jounry with others to grow togother and learn from each other
 
 ## Basic Syntax
 
