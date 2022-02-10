@@ -35,7 +35,7 @@ I'm an enthusiastic Developer who loves to share his experience and learning jou
 
 <p align="left">
 <a  href="https://twitter.com/devmuhnnad" target="blank"><img align="center" src="https://github.com/devmuhnnad/devmuhnnad/blob/main/socials/twitter%20(2).png" alt="" height="30" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/devmuhnnad/" target="blank"><img align="center" src="https://github.com/devmuhnnad/devmuhnnad/blob/main/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/devmuhnnad/" target="blank"><img align="center" src="https://github.com/devmuhnnad/devmuhnnad/blob/main/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>&nbsp;
 <a href="https://www.instagram.com/devmuhnnad/" target="blank"><img align="center" src="https://github.com/devmuhnnad/devmuhnnad/blob/main/socials/instagram.png" alt="" height="30" /></a>&nbsp;
 <a href="https://www.youtube.com/channel/UCfP8vqQZJILAfQp4WEGozzg" target="blank"><img align="center" src="https://github.com/devmuhnnad/devmuhnnad/blob/main/socials/youtube.png" alt="" height="30" /></a>&nbsp;
 <a href="https://muhnnad.me" target="blank"><img align="center" src="https://github.com/devmuhnnad/devmuhnnad/blob/main/socials/chrome.png" alt="" height="30" /></a>&nbsp;
