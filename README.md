@@ -16,6 +16,7 @@ I'm an enthusiastic Developer who loves to share his experience and learning jou
 <a href="https://www.youtube.com/channel/UCfP8vqQZJILAfQp4WEGozzg" target="blank"><img align="center" src="https://github.com/devmuhnnad/devmuhnnad/blob/main/socials/youtube.png" alt="" height="30" /></a>
 <a href="https://muhnnad.me" target="blank"><img align="center" src="https://github.com/devmuhnnad/devmuhnnad/blob/main/socials/chrome.png" alt="" height="30" /></a>
 <a href="https://dev.to/devmuhnnad" target="blank"><img align="center" src="https://github.com/devmuhnnad/devmuhnnad/blob/main/socials/devto.png" alt="" height="30" /></a>
+<a href="http://discordapp.com/users/819686854990233681" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-will-provide-official-verification-esports-team-4.png" alt="" height="30" /></a>
 </p>
 
 ## Basic Syntax
