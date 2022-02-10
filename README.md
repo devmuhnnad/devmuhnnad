@@ -3,7 +3,8 @@
   <img src="https://github.com/devmuhnnad/devmuhnnad/blob/main/devgif.gif" alt="gif devmuhnnad" />
 </p>
 
-The learning process never stop!, everyday there's interesting things you can learn and create, I'm an enthusiastic Developer who loves to share his experience and the learning journey jounry with others to grow togother and learn from each other
+The learning process never stop!, everyday there's interesting things you can learn and create.
+I'm an enthusiastic Developer who loves to share his experience and learning journey with others to grow togother and learn from each other 🌠💜 like speaking on stages and events, you can watch me on youtube while I'm having fun with creating content and coding Youtube [Devmuhnnad](https://www.youtube.com/channel/UCfP8vqQZJILAfQp4WEGozzg)
 
 ## Basic Syntax
 
