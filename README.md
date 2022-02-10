@@ -1,6 +1,8 @@
 ## Yo 👋 Hello everyone this is Muhnnad 
 ---
-![alt text](https://github.com/devmuhnnad/devmuhnnad/blob/main/devgif.gif)
+<p align="center">
+  <img src="https://github.com/devmuhnnad/devmuhnnad/blob/main/devgif.gif" alt="gif devmuhnnad" />
+</p>
 
 Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
 
