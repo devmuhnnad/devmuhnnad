@@ -8,14 +8,12 @@ The learning process never stop!, everyday there's interesting things you can le
 I'm an enthusiastic Developer who loves to share his experience and learning journey with others to grow togother and learn from each other 🌠💜 like speaking on stages and events, you can watch me on youtube while I'm having fun with creating content and coding 👨‍💻👉 [Devmuhnnad](https://www.youtube.com/channel/UCfP8vqQZJILAfQp4WEGozzg)
 
 <p align="left">
-<a href="http://twitter.com/MishManners" target="blank"><img align="center" src="https://github.com/devmuhnnad/devmuhnnad/blob/main/socials/twitter%20(2).png" alt="" height="30" /></a>
-<a href="http://linkedin.com/in/mishmanners" target="blank"><img align="center" src="https://github.com/devmuhnnad/devmuhnnad/blob/main/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-<a href="http://instagram.com/mishmanners" target="blank"><img align="center" src="https://github.com/devmuhnnad/devmuhnnad/blob/main/socials/instagram.png" alt="" height="30" /></a>
-<a href="http://twitch.tv/MishManners" target="blank"><img align="center" src="https://github.com/devmuhnnad/devmuhnnad/blob/main/socials/twitch.png" alt="" height="30" /></a>
-<a href="http://youtube.com/c/MishManners" target="blank"><img align="center" src="https://github.com/devmuhnnad/devmuhnnad/blob/main/socials/youtube.png" alt="" height="30" /></a>
-<a href="http://mishmanners.com" target="blank"><img align="center" src="https://github.com/devmuhnnad/devmuhnnad/blob/main/socials/chrome.png" alt="" height="30" /></a>
-<a href="https://hackathongoddess.wordpress.com/" target="blank"><img align="center" src="https://github.com/devmuhnnad/devmuhnnad/blob/main/socials/chrome.png" alt="" height="30" /></a>
-<a href="https://dev.to/mishmanners" target="blank"><img align="center" src="https://github.com/devmuhnnad/devmuhnnad/blob/main/socials/devto.png" alt="" height="30" /></a>
+<a href="https://twitter.com/devmuhnnad" target="blank"><img align="center" src="https://github.com/devmuhnnad/devmuhnnad/blob/main/socials/twitter%20(2).png" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/devmuhnnad/" target="blank"><img align="center" src="https://github.com/devmuhnnad/devmuhnnad/blob/main/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+<a href="https://www.instagram.com/devmuhnnad/" target="blank"><img align="center" src="https://github.com/devmuhnnad/devmuhnnad/blob/main/socials/instagram.png" alt="" height="30" /></a>
+<a href="https://www.youtube.com/channel/UCfP8vqQZJILAfQp4WEGozzg" target="blank"><img align="center" src="https://github.com/devmuhnnad/devmuhnnad/blob/main/socials/youtube.png" alt="" height="30" /></a>
+<a href="https://muhnnad.me" target="blank"><img align="center" src="https://github.com/devmuhnnad/devmuhnnad/blob/main/socials/chrome.png" alt="" height="30" /></a>
+<a href="https://dev.to/devmuhnnad" target="blank"><img align="center" src="https://github.com/devmuhnnad/devmuhnnad/blob/main/socials/devto.png" alt="" height="30" /></a>
 </p>
 
 ## Basic Syntax
