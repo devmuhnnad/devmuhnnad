@@ -19,7 +19,9 @@ I'm an enthusiastic Developer who loves to share his experience and learning jou
 <a href="http://discordapp.com/users/819686854990233681" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-will-provide-official-verification-esports-team-4.png" alt="" height="30" /></a>
 </p>
 
-## Basic Syntax
+## 💻 My Skills
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
 
