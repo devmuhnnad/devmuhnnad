@@ -1,6 +1,6 @@
 ## Yo 👋 Hello everyone this is Muhnnad 
 ---
-![alt text](https://github.com/devmuhnnad/devmuhnnad/blob/main/devmuhnnad.gif)
+![alt text](https://github.com/devmuhnnad/devmuhnnad/blob/main/devgif.gif)
 
 Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
 
