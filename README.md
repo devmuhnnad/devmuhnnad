@@ -5,7 +5,7 @@
 </p>
 
 The learning process never stop!, everyday there's interesting things you can learn and create.
-I'm an enthusiastic Developer who loves to share his experience and learning journey with others to grow togother and learn from each other 🌠💜 like speaking on stages and events, you can watch me on youtube while I'm having fun with creating content and coding 👨‍💻👉 [Devmuhnnad](https://www.youtube.com/channel/UCfP8vqQZJILAfQp4WEGozzg)
+I'm an enthusiastic Developer who loves to share his experience and learning journey with others to grow together and learn from each other 🌠💜 like speaking on stages and events, you can watch me on youtube while I'm having fun with creating content and coding 👨‍💻👉 [Devmuhnnad](https://www.youtube.com/channel/UCfP8vqQZJILAfQp4WEGozzg)
 
 <br/>
 
