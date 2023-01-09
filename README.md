@@ -46,5 +46,4 @@ I'm an enthusiastic Developer who loves to share his experience and learning jou
 <br/>
 
 ## 🐍 My contributions eaten by a snake
-![snake gif](https://github.com/devmuhnnad/devmuhnnad/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/devmuhnnad/devmuhnnad/blob/output/github-contribution-grid-snake-dark.svg)
