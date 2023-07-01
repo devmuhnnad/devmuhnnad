@@ -9,6 +9,9 @@ I'm an enthusiastic Developer who loves to share his experience and learning jou
 
 <br/>
 
+![Profile views](https://komarev.com/ghpvc/?username=devmuhnnad)
+
+
 ## 💻 My Skills
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
